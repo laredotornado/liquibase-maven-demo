@@ -1,5 +1,5 @@
 # liquibase-maven-demo
-This sample project demonstrates the running of Liquibase changesets into a Maven build.  In order to run this example, you will need to have the following installed
+This sample project demonstrates the running of Liquibase changesets within a Maven build.  In order to run this example, you will need to have the following installed
 
 Maven 3.2 or greater
 Java 1.7 or greater
